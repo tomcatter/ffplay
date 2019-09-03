@@ -10,3 +10,6 @@
 dist/*
 .vs/*
 *.opendb
+x64/
+ffplayer/x64
+*.mp4
