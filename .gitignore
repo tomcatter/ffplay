@@ -1,0 +1,12 @@
+*.log
+*.db
+.idea
+.DS_Store
+*.orig
+*.user
+*.stash
+.vscode
+.history
+dist/*
+.vs/*
+*.opendb
